@@ -1,4 +1,4 @@
-# BreakoutGame
+# Breakout Game
 
 ## Description
 
