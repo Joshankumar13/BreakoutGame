@@ -19,7 +19,7 @@ The Breakout Game is a classic arcade game where the player controls a paddle to
 
 ## Live Demo
 
-![Watch the video](https://github.com/joshan-18/BreakoutGame/assets/167819562/a6cfc1ab-9735-4f41-82e8-5ea5472af60b)
+Watch the video: [click here](https://github.com/joshan-18/BreakoutGame/assets/167819562/a6cfc1ab-9735-4f41-82e8-5ea5472af60b)
 
 ## Screenshots
 
